@@ -1,0 +1,36 @@
+
+    37 mkdir checkpoint-AnaMaria
+    38 git remote add origin https://github.com/ANAMARIA321456/Checkpoint-AnaArango
+    39 git init 
+   40  git push origin main
+   41  git branch feature
+   42  checkout feature
+   43  git checkout feature
+   44  mkdir Hardware Software Seguridadinformatica
+   45  cd Hardware/
+   46  touch resumen.txt
+   47  cd Software
+   48  cd ..
+   49  cd Software
+   50  touch resumen.txt
+   51  cd ..
+   52  cd Seguridadinformatica
+   53  touch resumen.txt
+   54  git status
+   55  git add .
+   56  ls
+   57  cd ..
+   58  gig add .
+   59  git add .
+   60  git status
+   61  git commit 02 -m "AnaMariaArango"
+   62  git commit 02 -m "commit 02 d AnaMariaArango"
+   63  git commit -m "commit 02 AnaMariaArango"
+   64  git push origin feature
+   65  git checkout main
+   66  mv main.js resumenHardware.txt
+   67  ls
+   68  mv index.html resumenSoftware.txt
+   69  ls
+   70  touch comandos.txt
+   71  history
